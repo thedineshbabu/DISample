@@ -1,0 +1,13 @@
+/Users/deebee/Documents/Repo/DISample/bin/Debug/netcoreapp3.1/DISample.deps.json
+/Users/deebee/Documents/Repo/DISample/bin/Debug/netcoreapp3.1/DISample.runtimeconfig.json
+/Users/deebee/Documents/Repo/DISample/bin/Debug/netcoreapp3.1/DISample.runtimeconfig.dev.json
+/Users/deebee/Documents/Repo/DISample/bin/Debug/netcoreapp3.1/DISample.dll
+/Users/deebee/Documents/Repo/DISample/bin/Debug/netcoreapp3.1/DISample.pdb
+/Users/deebee/Documents/Repo/DISample/obj/Debug/netcoreapp3.1/DISample.csprojAssemblyReference.cache
+/Users/deebee/Documents/Repo/DISample/obj/Debug/netcoreapp3.1/DISample.AssemblyInfoInputs.cache
+/Users/deebee/Documents/Repo/DISample/obj/Debug/netcoreapp3.1/DISample.AssemblyInfo.cs
+/Users/deebee/Documents/Repo/DISample/obj/Debug/netcoreapp3.1/DISample.dll
+/Users/deebee/Documents/Repo/DISample/obj/Debug/netcoreapp3.1/DISample.pdb
+/Users/deebee/Documents/Repo/DISample/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/deebee/Documents/Repo/DISample/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/deebee/Documents/Repo/DISample/obj/Debug/netcoreapp3.1/DISample.csproj.CopyComplete
